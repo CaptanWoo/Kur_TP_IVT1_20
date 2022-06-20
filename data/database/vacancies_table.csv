@@ -1,0 +1,2 @@
+id;status;creatorId;companyId;displayName;employmentType;schedule;minSalary;maxSalary;minWorkPeriod;maxWorkPeriod;address;contactInfo;description;shortDescription;professionsId;skillsId;languagesId;citizenShipsId;creationDate;updateDate
+1;ACTIVE;1;1;Арт-дизайнер;NOT_STATED;NOT_STATED;15000;25000;P2Y;P4Y;Россия█Смоленская обл.█Смоленск█Николаева█27;Сидорова Екатерина Александровна█admin@mail.ru█78005553535█;Тестовое описание вакансии;Краткое описание вакансии;9;24,25,14,15;9;9;2022-06-20T06:15:16.843;2022-06-20T06:15:16.843

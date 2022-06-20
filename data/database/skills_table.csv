@@ -1,0 +1,27 @@
+id;status;displayName
+1;ACTIVE;Грамотная речь
+2;ACTIVE;Стрессоустойчивость
+3;ACTIVE;Коммуникабельность
+4;ACTIVE;Git
+5;ACTIVE;GitHub
+6;ACTIVE;GitLab
+7;ACTIVE;Java
+8;ACTIVE;C++
+9;ACTIVE;C#
+10;ACTIVE;Python
+11;ACTIVE;JavaScript
+12;ACTIVE;TypeScript
+13;ACTIVE;Ruby
+14;ACTIVE;Пользователь ПК
+15;ACTIVE;Работа в команде
+16;ACTIVE;Базы данных
+17;ACTIVE;Управление проектами
+18;ACTIVE;Обучение персонала
+19;ACTIVE;Исполнительность
+20;ACTIVE;Креативность
+21;ACTIVE;Деловая переписка
+22;ACTIVE;Управление персоналом
+23;ACTIVE;Ведение переговоров
+24;ACTIVE;Photoshop
+25;ACTIVE;Figma
+26;ACTIVE;Графический дизайн

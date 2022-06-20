@@ -1,0 +1,2 @@
+id;status;creatorId;companyTypeId;displayName;description;website;address;contactInfo;professionsId;usersId;vacanciesId;creationDate;updateDate
+1;ACTIVE;1;1;Рога и копыта;Тестовое описание компании;https://roga-i-kopita.ru;Россия█Смоленская обл.█Смоленск█Николаева█27;Сидорова Екатерина Александровна█admin@mail.ru█78005553535█;7,9;0;1;2022-06-20T05:01:51.022;2022-06-20T05:01:51.022
